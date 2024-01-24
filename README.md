@@ -22,3 +22,5 @@ the project contains 4 files:
 >stocks_project_by_hagaisaar.py
 
 >Main stocks_project_by_hagaisaar.py
+
+*In the future, more options will be added and there will be an application for fully automated operation.
