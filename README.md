@@ -11,7 +11,7 @@ pip install Pandas
 
 *******************************************************
 python project
-the project contains four files:
+the project contains 3 files:
 
 
 >project Python_Hagai Saar.pptx
