@@ -15,11 +15,10 @@ pip install Pandas
 python project
 the project contains 4 files:
 
->README.md
-
->project Python_Hagai Saar.pptx
-
->stocks_project_by_hagaisaar.py
+1>README.md
+2>Main stocks_project_by_hagaisaar.py
+3>project Python_Hagai Saar.pptx
+4>stocks_project_by_hagaisaar.py
 
 >Main stocks_project_by_hagaisaar.py
 
