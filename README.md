@@ -4,7 +4,7 @@ In addition, it will be possible to enter stock portfolios and check forecasts r
 ![image](https://github.com/HagaiSaar/Hagai-Saar/assets/157474708/ee250ac7-c945-4490-91ab-d28154739ab5)
 ![image](https://github.com/HagaiSaar/Hagai-Saar/assets/157474708/d724c14d-8ddc-4e6a-8250-b73c761f391d)
 
-******************************************************
+*******************************************************
 prerequisites
 Using pip or any other way, you will need the module:
 
@@ -27,4 +27,4 @@ the project contains 4 files:
 4>stocks_project_by_hagaisaar.py
 
 *In the future, more options will be added and there will be an application for fully automated operation.
-כככ
+ככ
