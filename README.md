@@ -16,11 +16,12 @@ python project
 the project contains 4 files:
 
 1>README.md
-2>Main stocks_project_by_hagaisaar.py
-3>project Python_Hagai Saar.pptx
-4>stocks_project_by_hagaisaar.py
 
->Main stocks_project_by_hagaisaar.py
+2>Main stocks_project_by_hagaisaar.py
+
+3>project Python_Hagai Saar.pptx
+
+4>stocks_project_by_hagaisaar.py
 
 *In the future, more options will be added and there will be an application for fully automated operation.
 כככ
