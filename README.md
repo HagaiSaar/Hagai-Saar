@@ -6,7 +6,7 @@ In addition, it will be possible to enter stock portfolios and check forecasts r
 ![image](https://github.com/HagaiSaar/Hagai-Saar/assets/157474708/d724c14d-8ddc-4e6a-8250-b73c761f391d)
 
 *******************************************************
-prerequisites
+prerequisites:
 
 Using pip or any other way,you will need the module:
 
