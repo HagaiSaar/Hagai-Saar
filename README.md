@@ -7,7 +7,8 @@ In addition, it will be possible to enter stock portfolios and check forecasts r
 
 *******************************************************
 prerequisites
-Using pip or any other way, you will need the module:
+
+Using pip or any other way,you will need the module:
 
 pandas
 
